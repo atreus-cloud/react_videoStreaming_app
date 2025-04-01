@@ -10,6 +10,10 @@ created a simple video streaming app/website in react + typescript, and Tailwind
 5) an interactive return to home button in the logo of the website
 6) Tailwind CSS: Modern, responsive UI.
 
+## The deployed website
+
+https://super-mandazi-ba5083.netlify.app/
+
 ## Installation
 
 ### Prerequisites
