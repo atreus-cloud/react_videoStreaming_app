@@ -20,8 +20,8 @@ Ensure you have Node.js and npm installed
 
 1) Clone the repository:
 ```
-git clone https://github.com/yourusername/project-bolt.git
-cd project-bolt
+git clone https://github.com/atreus-cloud/react_videoStreaming_app.git
+cd react_videoStreaming_app
 ```
 2) Install dependencies:
 ```
