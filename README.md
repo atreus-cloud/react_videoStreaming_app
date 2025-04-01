@@ -29,5 +29,10 @@ npm install
 ```
 3) Start the development server:
 ```
-npm run dev   
+npm run dev
 ```
+
+# Further Improvements
+1) can use videos from local storage and display them, like a plix server
+2) accounts tracking and registration&login
+3) more interactive UI
